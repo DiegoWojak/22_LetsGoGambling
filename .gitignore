@@ -3,6 +3,7 @@
 /.php
 /.tif
 /.tga
+*.meta
 */.meta
 */*.meta
 
