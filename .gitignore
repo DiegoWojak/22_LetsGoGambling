@@ -22,6 +22,7 @@
 *.vsconfig
 
 [Aa]ssets/StreamingAssets/
+[Aa]ssets/Plugins/
 
 .vs/
 
